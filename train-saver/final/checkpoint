@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/CarReconition/CarTrain/train-saver/final/model.ckpt"
+all_model_checkpoint_paths: "E:/CarReconition/CarTrain/train-saver/final/model.ckpt"
